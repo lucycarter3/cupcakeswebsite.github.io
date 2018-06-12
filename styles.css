@@ -1,0 +1,163 @@
+div {
+    
+    text-decoration-color: white;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: white;
+    color: 745F7E;
+    height: 90px;
+}
+
+.whiteboxmain {
+    width: 920px;
+    background-color: white;
+    height: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Glegoo');
+
+
+
+.aboutparagraph {
+    width: 920px;
+    height: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #5F647E;
+    border-width: medium;
+    font-family: 'Glegoo', serif;
+    font-size: 20px;
+}
+
+.contactparagraph {
+    color: #5F647E;
+    border-width: medium;
+    font-family: 'Glegoo', serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.nav {
+    max-width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+    font color: #745F7E;
+    font-family: 'Lato', sans-serif;
+}
+
+.brandtitle {
+    float: left;
+    margin-top: 35px;
+    font-size: 1.4rem;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    color: #745F7E;
+    font-family: Knewave;
+    font-size: 78px;
+
+}
+
+.links {
+    float: right;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: Knewave;
+    font-size: 30px;
+    
+   
+}
+
+.links a {
+    color: #A8C8F7;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.banner {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+    height: 920px;
+}
+
+.banner img{
+    max-width: 920px;
+    width: 100%;
+}
+
+.links {
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.multibox16back {
+    width: 920px;
+    background-color: #0;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.banner2 {
+    background-color: yellow;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    height: 280px;
+    width: 280px;
+}
+
+.bannertext {
+    background-color: white;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 30px;
+    float: left;
+    height: 100px;
+    width: 280px;
+    text-align: center;
+    font-family: 'Glegoo', serif;
+    color: #5F647E;
+    font-size: 17px;
+}
+
+.banner2 img {
+    max-width: 280px;
+    width: 100%; 
+}
+
+.map {
+    text-align: center;
+}
+
+.homeimg {
+    text-align: center;
+}
+
+.bannertext2 {
+    background-color: white;
+    padding: 0;
+    margin-top: 10px;
+    float: left;
+    height: 10px;
+    width: 920px;
+    text-align: center;
+    font-family: 'Glegoo', serif;
+    color: #5F647E;
+    font-size: 17px;
+}
