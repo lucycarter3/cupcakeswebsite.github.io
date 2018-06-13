@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Glegoo');
+
 div {
     
     text-decoration-color: white;
@@ -22,10 +24,6 @@ div {
     margin-left: auto;
     margin-right: auto;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Glegoo');
-
-
 
 .aboutparagraph {
     width: 920px;
